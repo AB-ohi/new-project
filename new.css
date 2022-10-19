@@ -1,0 +1,109 @@
+.A1 {
+  background-color: rgba(0, 160, 252, 0.144);
+  font-family: 'Fira Sans', sans-serif;
+  padding: 10px;
+  padding-bottom: 5px;
+  font-size: 30px;
+  font-style: italic;
+  word-spacing: 2rem;
+  border-radius: 20px;
+  border: 5px double rgb(53, 124, 255);
+  margin-bottom: 15px;
+}
+body {
+  background-image: url(wallpapersden.com_tree-alone-dark-evening-4k_3840x2160.jpg) ;
+  background-repeat: no-repeat;
+  height: auto;
+  background-attachment: fixed;
+  background-size:cover ;
+  font-family: 'Merriweather Sans', sans-serif;
+  
+}
+
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover{
+  color: rgb(43, 255, 0);
+}
+.clear{
+  clear: both;
+}
+
+.A1 h1{
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 49px;
+    text-align: center;
+    text-decoration: underline rgb(0, 217, 255);
+    word-spacing: 4ch;
+}
+.kaj-kormo {
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: rgba(0, 255, 255, 0.199);
+    padding: 50px;
+    margin-right: 1546px;
+    width: 14%;
+    border: 4px double rgb(0, 173, 241);
+    line-height: 3ch;
+    border-radius: 20px;
+}
+.all-id {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: rgb(0, 238, 255);
+  
+    
+}
+.kaj-kormo li{
+  border-bottom: 3px dotted rgb(0, 173, 241)
+}
+.kaj-kormo ul{
+  list-style: square;
+}
+.job {
+  color: aqua;
+}
+.job a{
+  color: aqua;
+}
+.job a:hover{
+  color: aliceblue;
+}
+.abote{
+  color: aqua;
+}
+.me{
+  
+  float: left;
+  border: 5px double rgb(0, 225, 255);
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.308);
+  box-sizing: border-box;
+  /* justify-content: space-around; */
+  padding: 20px;
+}
+.all-me{
+  grid-column-gap: 5px;
+  grid-template-columns: 30% 30% 30%;
+}
+.me :hover{
+  color: greenyellow;
+}
+.ohi-pic h3{
+  color: aqua;
+  font-size: 35px;
+}
+.ohi-pic img{
+  margin: 20px;
+  width: 240px;
+  height: 240px;
+  border: 3px solid #ddd;
+  border-radius: 130px;
+  padding: 5px;
+}
+.pic:hover{
+  box-shadow: 0 0 10px 10px rgba(0, 238, 255, 0.5);
+  width: 245px;
+  margin: 25px;
+}

@@ -1,0 +1,19 @@
+.body {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: greenyellow;
+}
+.table table, th, td {
+    border: 1px solid rgb(255, 1, 1);
+    border-collapse: collapse;
+    background-color: #96d4d43d;
+    width: 150ch;
+    margin: auto;
+  }
+  body{
+    background-color: rgba(0, 0, 0, 0.918);
+    background-image: url(325694-black-car-wallpaper-top-free-black-car-background.jpg);
+  }
+.body h1{
+    text-decoration: underline;
+}

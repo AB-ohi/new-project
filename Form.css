@@ -1,0 +1,148 @@
+.body {
+    font-family: 'Anton', sans-serif;
+    
+ 
+
+}
+.from-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.body h1{
+    font-family: 'Monoton', cursive;
+    /* width: 10px; */
+    color: rgb(47, 213, 255);
+    text-decoration: underline;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body h1:hover{
+    color: rgb(0, 26, 255);
+    font-family: 'Ms Madi', cursive;
+}
+
+.form {
+    font-family: 'Merriweather', serif;
+
+    color: rgb(0, 183, 255);
+    margin: 20px;
+    background-color: rgba(1, 74, 143, 0.39);
+    padding: 30px;
+    border: 5px double blue;
+    border-radius: 20px;
+}
+body {
+    background-image: url(digital-nature-blue-4k-g8.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    
+}
+.name {
+    padding-bottom: 10px;
+    
+}
+.name input{
+    padding: 8px;
+    width: 230px;
+    margin-left: 45px;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 255);
+    
+}
+.mail{
+    padding-bottom: 10px;
+
+}
+.mail input{
+    padding: 8px;
+    width: 300px;
+    margin-left: 34px;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 255) ;
+}
+.pass{
+    padding-bottom: 10px;
+
+}
+.pass input{
+    margin-left: 14px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 255);
+}
+.phone{
+    padding-bottom: 10px; 
+      
+}
+.phone select{
+    padding: 8px;
+    width: 90px;
+    margin-left: 104px;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 255);
+
+
+}
+.phone input{
+    padding: 8px;
+    margin-left: 103px;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 255);
+    margin-top: 8px;
+}
+.date{
+    padding-bottom: 10px;
+}
+.date input{
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(0, 140, 255);
+}
+.gender{
+    padding-bottom: 10px;
+}
+.time{
+    padding-bottom: 10px;
+}
+.pic{
+    padding-bottom: 10px;
+}
+.pic input:hover{
+    color: rgba(1, 224, 224, 0.993);
+}
+.text{
+    border-radius: 20px;
+}
+.submit{
+    padding-top: 10px;
+}
+.submit input{
+    background-color: black;
+    color: rgb(0, 153, 255);
+    padding: 9px;
+    border-radius: 20px;
+    width: 420px;
+}
+.submit input:hover{
+    background-color: rgb(0, 153, 255);
+    color: black;
+}
+.reset{
+    padding-top: 10px;
+}
+.reset input{
+    background-color: black;
+    color: rgb(0, 153, 255);
+    border-radius: 20px;
+    padding: 9px;
+    width: 420px;
+}
+.reset input:hover{
+    background-color: rgb(0, 153, 255);
+    color: black;
+}
